@@ -2,9 +2,9 @@
 ## Robot body and sensor
 A cheap distance sensor made from a fixed line laser and camera module
 ![distance-sensor](images/camera.jpg)  
-Principle of operation:
+Principle of operation:  
 ![distance-sensor](images/imageSensor.jpg)  
-Distance/speed/heading is calculated from wheel encoders and continuous servo motors that exist on the robot assembly shown below.
+Distance/speed/heading is calculated from wheel encoders and continuous servo motors that exist on the robot assembly shown below.  
 ![distance-sensor](images/3d.jpg)
 
 ## Example with real world data
